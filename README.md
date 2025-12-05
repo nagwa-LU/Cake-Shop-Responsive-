@@ -42,6 +42,6 @@ A modern, responsive web  for a fictional cake shop. The goal of this  is to pro
 ![blog](screenshots/blog.png.png)
 
 
-4. Live Demo
+## Live Demo
 https://nagwa-lu.github.io/Cake-Shop-Responsive-/
 

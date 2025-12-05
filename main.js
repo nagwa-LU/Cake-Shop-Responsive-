@@ -1,5 +1,5 @@
 
-let navLinks = document.querySelector('.nav-links');
+/*let navLinks = document.querySelector('.nav-links');
 
 
 let menuIcon = document.querySelector('.menu-icon');
@@ -13,7 +13,7 @@ menuIcon.onclick = () => {
 
 window.onscroll = () => {
     navLinks.classList.remove('active');
-}
+}*/
 
 
 
@@ -122,6 +122,7 @@ setInterval(() => {
   index = (index + 1) % slides.length;
   showSlide(index);
 }, 5000);
+
 
 
 

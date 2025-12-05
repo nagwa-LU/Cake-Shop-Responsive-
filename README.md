@@ -39,15 +39,9 @@ A modern, responsive web  for a fictional cake shop. The goal of this  is to pro
 ![about](screenshots/about.png.png)
 ![image](screenshots/image.png.png)
 ![footer](screenshots/footer.png.png)
-![plog](screenshots/plog.png.png)
+![blog](screenshots/blog.png.png)
 
 
 4. Live Demo
 https://nagwa-lu.github.io/Cake-Shop-Responsive-/
 
-## License
-
-This project is licensed under the MIT License.
-
----
-Made with ❤️ by [Your Name or Team Name]

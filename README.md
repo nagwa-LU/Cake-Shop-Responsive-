@@ -36,10 +36,10 @@ A modern, responsive web  for a fictional cake shop. The goal of this  is to pro
 
 ## Screenshot
 
-![about](screenshots/about.png.png)
-![image](screenshots/image.png.png)
-![footer](screenshots/footer.png.png)
-![blog](screenshots/blog.png.png)
+![hero](screenshots/hero.png)
+![image2](screenshots/image2.png)
+![blog2](screenshots/blog2.png)
+![footer2](screenshots/footer2.png)
 
 
 ## Live Demo

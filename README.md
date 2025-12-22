@@ -53,20 +53,8 @@ JavaScript
 
 AOS (Animate On Scroll) for animations
 
-GitHub Pages for hosting
 
 
-##
-📁 Project Structure
-Cake-Shop-Responsive-/
-├── index.html
-    ├── js/
-│       └── main.js
-├── css/
-│   └── style.css
-├── images/
-│   └── (.png)
-└── README.md
 
 
 ##

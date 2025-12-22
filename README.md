@@ -19,19 +19,19 @@ nagwa-lu.github.io
 ##
 📌 Key Features
 
-✨ Responsive Layout
+ Responsive Layout
 
 Works on desktop and mobile
 
 Clean UI with organized sections
 
-✨ Animated Scrolling
+ Animated Scrolling
 
 Sections animate on scroll using AOS or custom JS
 
 Engaging user experience
 
-✨ Interactive Order Form
+ Interactive Order Form
 
 Validates required fields
 
@@ -39,11 +39,11 @@ Shows success message at the top after submit
 
 Form resets automatically
 
-✨ User-friendly Navigation
+ User-friendly Navigation
 
 
 ##
-🧠 Technologies Used
+ Technologies Used
 
 HTML5
 
@@ -60,5 +60,5 @@ AOS (Animate On Scroll) for animations
 ##
 
 Live Demo:
-👉 https://nagwa-lu.github.io/Cake-Shop-Responsive-/
+https://nagwa-lu.github.io/pro-cake-Responsive-/
  

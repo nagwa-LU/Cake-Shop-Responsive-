@@ -16,6 +16,7 @@ Include scroll animations and modern UI elements
 This site is hosted using GitHub Pages, making it accessible online with no backend required. 
 nagwa-lu.github.io
 
+##
 📌 Key Features
 
 ✨ Responsive Layout
@@ -40,6 +41,8 @@ Form resets automatically
 
 ✨ User-friendly Navigation
 
+
+##
 🧠 Technologies Used
 
 HTML5
@@ -52,6 +55,8 @@ AOS (Animate On Scroll) for animations
 
 GitHub Pages for hosting
 
+
+##
 📁 Project Structure
 Cake-Shop-Responsive-/
 ├── index.html
